@@ -41,4 +41,7 @@ Here are some ideas to get you started:
     <img src="https://github.com/akhalid-dev/akhalid-dev/blob/main/rocket-150.gif" style="display:block;"/> 
     <div id="name">Abdullah Khalid</div>
 </div>
+<script>
+    console.log("hello");
+</script>
 
