@@ -37,9 +37,14 @@ Here are some ideas to get you started:
 </div>
 <p align="center">
   <samp> 
-    Professional Full Stack Developer!  <br> e-mail:	<a href='mailto:akhal022@uottawa.ca'>Drop me a line</a> <br>   
+    Professional Full Stack Developer!  <br> E-mail:	<a href='mailto:akhal022@uottawa.ca'>Drop me a line</a> <br>   
     	<a href='https://www.linkedin.com/in/real-abdullah-khalid/'>Linkedin</a>, <a href='https://github.com/akhalid-dev'>Github</a><br>  
   </samp>
-</P>
+</p>
 
-
+<div>
+    <div align="left">
+        <img src="https://github.com/akhalid-dev/akhalid-dev/blob/main/spaceman.png" style="display:block;"/>
+    </div>
+    
+</div>
