@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    <img src="https://github.com/akhalid-dev/akhalid-dev/blob/main/rocket-150.gif" style="display:block;"/> 
+    <img src="https://github.com/akhalid-dev/akhalid-dev/blob/main/assets/rocket-150.gif" style="display:block;"/> 
 </div>
 <p align="center">
   <samp> 
@@ -42,9 +42,6 @@ Here are some ideas to get you started:
   </samp>
 </p>
 
-<div style="display: flex; flex-direction: row; flex-wrap: nowrap;">
-    <div style="flex-basis: 10%;">
-        <img src="https://github.com/akhalid-dev/akhalid-dev/blob/main/spaceman.png" style="display:block;" />
-    </div>
-
+<div align="center">
+    <img src="https://github.com/akhalid-dev/akhalid-dev/blob/main/assets/spaceman.png" style="display:block;" />
 </div>
