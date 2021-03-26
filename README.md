@@ -31,7 +31,14 @@ Here are some ideas to get you started:
 [website]: http://akhalid-dev.github.io/
 [youtube]: https://www.youtube.com/channel/UC_dOiToGHLxTUvc_TEYBavA
 -->
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+    #name {
+        font-family: "Roboto", sans-sarif;
+    }
+</style>
 <div align="center">
     <img src="https://github.com/akhalid-dev/akhalid-dev/blob/main/rocket-150.gif" style="display:block;"/> 
+    <div id="name">Abdullah Khalid</div>
 </div>
 
