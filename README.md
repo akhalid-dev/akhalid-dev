@@ -42,9 +42,9 @@ Here are some ideas to get you started:
   </samp>
 </p>
 
-<div>
-    <div align="left">
-        <img src="https://github.com/akhalid-dev/akhalid-dev/blob/main/spaceman.png" style="display:block;"/>
+<div style="display: flex; flex-direction: row; flex-wrap: nowrap;">
+    <div style="flex-basis: 10%;">
+        <img src="https://github.com/akhalid-dev/akhalid-dev/blob/main/spaceman.png" style="display:block;" />
     </div>
-    
+
 </div>
