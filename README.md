@@ -31,4 +31,7 @@ Here are some ideas to get you started:
 [website]: http://akhalid-dev.github.io/
 [youtube]: https://www.youtube.com/channel/UC_dOiToGHLxTUvc_TEYBavA
 -->
-<img align="center" src="https://github.com/akhalid-dev/akhalid-dev/blob/main/rocket-150.gif" /> 
+<div align="center">
+    <img src="https://github.com/akhalid-dev/akhalid-dev/blob/main/rocket-150.gif" style="display:block;"/> 
+</div>
+
