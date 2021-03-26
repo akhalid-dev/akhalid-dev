@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 [website]: http://akhalid-dev.github.io/
 [youtube]: https://www.youtube.com/channel/UC_dOiToGHLxTUvc_TEYBavA
 -->
-
+[<img align="center" alt="video content" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
