@@ -31,17 +31,15 @@ Here are some ideas to get you started:
 [website]: http://akhalid-dev.github.io/
 [youtube]: https://www.youtube.com/channel/UC_dOiToGHLxTUvc_TEYBavA
 -->
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
-    #name {
-        font-family: "Roboto", sans-sarif;
-    }
-</style>
+
 <div align="center">
     <img src="https://github.com/akhalid-dev/akhalid-dev/blob/main/rocket-150.gif" style="display:block;"/> 
-    <div id="name">Abdullah Khalid</div>
 </div>
-<script>
-    console.log("hello");
-</script>
+<p align="center">
+  <samp> 
+    Professional Full Stack Deveoper!  <br> e-mail:	<a href='mailto:akhal022@uottawa.ca'>Please drop me a line</a> <br>   
+    	<a href='https://www.linkedin.com/in/real-abdullah-khalid/'>Linkedin</a>, <a href='https://github.com/akhalid-dev'>Github</a><br>  
+  </samp>
+</P>
+
 
