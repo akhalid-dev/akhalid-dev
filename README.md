@@ -38,10 +38,11 @@ Here are some ideas to get you started:
 <p align="center">
   <samp> 
     Professional Full Stack Developer!  <br> E-mail:	<a href='mailto:akhal022@uottawa.ca'>Drop me a line</a> <br>   
-    	<a href='https://www.linkedin.com/in/real-abdullah-khalid/'>Linkedin</a>, <a href='https://github.com/akhalid-dev'>Github</a><br>  
+<!--     	<a href='https://www.linkedin.com/in/real-abdullah-khalid/'>Linkedin</a>, <a href='https://github.com/akhalid-dev'>Github</a><br>   -->
   </samp>
 </p>
 
-<div align="center">
+<!-- <div align="center">
     <img src="https://github.com/akhalid-dev/akhalid-dev/blob/main/assets/spaceman.png" style="display:block;" />
 </div>
+ -->
